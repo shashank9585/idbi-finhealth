@@ -1,0 +1,24 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+
+# Database (SQLite is built into Python, no extra drivers needed!)
+sqlalchemy
+alembic
+
+# Redis Caching
+redis
+
+# HTTP Client (for AI API calls)
+httpx
+
+# Environment Variables
+python-dotenv
+
+# Data Validation
+pydantic
+pydantic-settings
+
+# Utilities
+python-multipart
+zustand
